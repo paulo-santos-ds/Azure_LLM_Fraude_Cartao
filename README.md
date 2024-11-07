@@ -37,9 +37,6 @@ Exibe os resultados da análise, incluindo:
 - Streamlit
 - Azure Blob Storage
 - Azure Computer Vision
-- Custom Services:
-- blob_service
-- credit_card_service
 
 ## 💻 Integração com Azure
 
