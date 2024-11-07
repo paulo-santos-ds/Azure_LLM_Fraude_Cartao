@@ -3,7 +3,17 @@
 
 ## Descrição do Projeto
 
-Este projeto consiste em uma aplicação web que utiliza Azure Computer Vision e Streamlit para verificar e validar informações de cartões de crédito em imagens.
+Este projeto consiste em uma aplicação web que utiliza Azure Computer Vision e Streamlit para verificar e validar informações de cartões de crédito em imagens conforme figuras abaixo.
+
+
+# Template do projeto
+![ Template do projeto](https://github.com/paulo-santos-ds/Azure_LLM_fraude_cartao/blob/main/imagem_templates.png)
+
+
+
+# Cartão validação
+![Cartão validação](https://github.com/paulo-santos-ds/Azure_LLM_fraude_cartao/blob/main/cart%C3%A3o%20validado.png)
+
 
 ## 📋 Funcionalidades
 
@@ -51,5 +61,4 @@ O projeto utiliza dois serviços principais do Azure:
 3. Instale as dependências listadas acima
 4. Execute o aplicativo:
 5. Execute o aplicativo Streamlit:
-```bash
-streamlit run app.py
+
