@@ -5,7 +5,6 @@
 
 Este projeto consiste em uma aplicação web que utiliza Azure Computer Vision e Streamlit para verificar e validar informações de cartões de crédito em imagens conforme figuras abaixo.
 
-
 # Template do projeto
 ![ Template do projeto](https://github.com/paulo-santos-ds/Azure_LLM_fraude_cartao/blob/main/imagem_templates.png)
 
