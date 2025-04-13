@@ -13,7 +13,6 @@ Este projeto consiste em uma aplicação web que utiliza Azure Computer Vision e
 # Cartão validação
 ![Cartão validação](https://github.com/paulo-santos-ds/Azure_LLM_fraude_cartao/blob/main/cart%C3%A3o%20validado.png)
 
-
 ## 📋 Funcionalidades
 
 - Upload de imagens (PNG, JPG, JPEG)
