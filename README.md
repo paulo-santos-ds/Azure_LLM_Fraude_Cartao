@@ -58,4 +58,3 @@ O projeto utiliza dois serviços principais do Azure:
 3. Instale as dependências listadas acima
 4. Execute o aplicativo:
 5. Execute o aplicativo Streamlit:
-
