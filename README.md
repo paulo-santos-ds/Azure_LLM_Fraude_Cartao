@@ -10,7 +10,6 @@ Este projeto consiste em uma aplicação web que utiliza Azure Computer Vision e
 ![ Template do projeto](https://github.com/paulo-santos-ds/Azure_LLM_fraude_cartao/blob/main/imagem_templates.png)
 
 
-
 # Cartão validação
 ![Cartão validação](https://github.com/paulo-santos-ds/Azure_LLM_fraude_cartao/blob/main/cart%C3%A3o%20validado.png)
 
