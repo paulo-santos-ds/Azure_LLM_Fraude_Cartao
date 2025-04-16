@@ -15,6 +15,7 @@ Este projeto consiste em uma aplicação web que utiliza Azure Computer Vision e
 
 ## 📋 Funcionalidades
 
+
 - Upload de imagens (PNG, JPG, JPEG)
 - Armazenamento automático no Azure Blob Storage
 - Análise de cartões de crédito usando serviços Azure
